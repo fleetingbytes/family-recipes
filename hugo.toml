@@ -58,3 +58,7 @@ defaultContentLanguage = "en"
     BookDateFormat = "January 2, 2006"
     BookSearch = true
     BookComment = true
+
+[caches]
+    [caches.images]
+        dir = ":cacheDir/images"
