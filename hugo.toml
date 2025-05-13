@@ -1,5 +1,5 @@
-baseURL = "https://example.org/"
-title = "My New Hugo Site"
+baseURL = "https://fleetingbytes.github.io/family-recipes/"
+title = "My Family Recipes"
 
 # Book configuration
 enableGitInfo = true
