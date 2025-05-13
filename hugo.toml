@@ -1,6 +1,60 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://example.org/"
+title = "My New Hugo Site"
+
+# Book configuration
+enableGitInfo = true
+defaultContentLanguage = "en"
+
+[markup]
+    [markup.goldmark.renderer]
+        # Needed for mermaid/katex shortcodes
+        unsafe = true
+    [makrup.tableOfContents]
+        startLevel = 1
+
 [module]
     [[module.imports]]
         path = "github.com/alex-shpak/hugo-book"
+
+[languages]
+    [languages.en]
+        languageName = "English"
+        languageCode = "en-GB"
+        title = "My family recipes"
+        weight = 1
+    [languages.de]
+        languageName = "Deutsch"
+        languageCode = "de-DE"
+        title = "Rezepte meiner Familie"
+        weight = 2
+    [languages.fr]
+        languageName = "Français"
+        languageCode = "fr-FR"
+        title = "Les recettes de ma famille"
+        weight = 3
+    [languages.cs]
+        languageName = "Česky"
+        languageCode = "cs-CZ"
+        title = "Rodinné recepty"
+        weight = 4
+
+[menu]
+    [[menu.after]]
+        name = "GitHub"
+        url = "https://github.com/fleetingbytes/family-recipes"
+        weight = 10
+    [[menu.after]]
+        name = "Hugo Book Theme"
+        url = "https://themes.gohugo.io/hugo-book/"
+        weight = 20
+
+[params]
+    BookTheme = "auto"
+    BookToC = true
+    BookSection = "docs"
+    BookRepo = "https://github.com/fleetingbytes/family-recipes"
+    BookCommitPath = "commit"
+    BookEditPath = "edit/master/family-recipes"
+    BookDateFormat = "January 2, 2006"
+    BookSearch = true
+    BookComment = true
