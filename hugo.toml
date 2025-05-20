@@ -1,5 +1,6 @@
 baseURL = "https://fleetingbytes.github.io/family-recipes/"
 title = "My Family Recipes"
+timeZone = "Europe/Berlin"
 
 # Book configuration
 enableGitInfo = true
@@ -20,7 +21,7 @@ defaultContentLanguage = "en"
     [languages.en]
         languageName = "English"
         languageCode = "en-GB"
-        title = "My family recipes"
+        title = "Family recipes"
         weight = 1
     [languages.de]
         languageName = "Deutsch"
@@ -38,12 +39,12 @@ defaultContentLanguage = "en"
         title = "Rodinné recepty"
         weight = 4
 
-[menu]
-    [[menu.after]]
+[menus]
+    [[menus.after]]
         name = "GitHub"
         url = "https://github.com/fleetingbytes/family-recipes"
         weight = 10
-    [[menu.after]]
+    [[menus.after]]
         name = "Hugo Book Theme"
         url = "https://themes.gohugo.io/hugo-book/"
         weight = 20
@@ -57,7 +58,7 @@ defaultContentLanguage = "en"
     BookEditPath = "edit/master/family-recipes"
     BookDateFormat = "January 2, 2006"
     BookSearch = true
-    BookComment = true
+    BookComments = false
 
 [caches]
     [caches.images]
