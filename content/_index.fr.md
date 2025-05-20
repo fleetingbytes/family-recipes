@@ -7,4 +7,4 @@ type: docs
 
 # Recettes de ma famille
 
-Ce sont des recettes que je cuisine pour ma famille.
+Ce sont les recettes que je cuisine pour ma famille.
