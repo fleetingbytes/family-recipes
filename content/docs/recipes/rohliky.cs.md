@@ -49,6 +49,12 @@ pro 11 rohlíků
 - 10 minut v troubě předehřáté na 265 °C (horní a spodní ohřev)
 - nechat na mřížce vychladnout
 
+## Zdroj
+
+[Homemade buns and rolls without chemicals][warlocorn] (Youtube video)
+
+[warlocorn]: https://www.youtube.com/watch?v=fgLcehbSDpI
+
 ## Poznámky
 
 ### Raženka
