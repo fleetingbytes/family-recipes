@@ -8,7 +8,7 @@ categories = ["recette"]
 
 # Chilli con carne
 
-## Ingrédients pour 8 portions
+## Ingrédients
 
 {{< tabs "chilli con carne portions" >}}
 {{% tab "8 portions" %}}
@@ -38,7 +38,7 @@ categories = ["recette"]
 
 ### Epices
 
-{{< tabs "chilli con carne portions" >}}
+{{< tabs "chilli con carne portions bug" >}}
 {{% tab "8 portions" %}}
 - 2 cac rase de sarriette
 - 2 cac paprika doux

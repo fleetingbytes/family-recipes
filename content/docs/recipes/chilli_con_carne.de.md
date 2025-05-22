@@ -38,7 +38,7 @@ categories = ["Rezept"]
 
 ### Gewürz
 
-{{< tabs "chilli con carne zutaten" >}}
+{{< tabs "chilli con carne zutaten bug" >}}
 {{% tab "8 servings" %}}
 - 2 Tl Bohnenkraut
 - 2 Tl Paprika süß

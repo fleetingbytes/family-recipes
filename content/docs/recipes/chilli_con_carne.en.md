@@ -38,7 +38,7 @@ categories = ["recipe"]
 
 ### Spice
 
-{{< tabs "chilli con carne servings" >}}
+{{< tabs "chilli con carne servings bug" >}}
 {{% tab "8 servings" %}}
 - 2 tea spoons of summer savory
 - 2 tea spoons of paprika

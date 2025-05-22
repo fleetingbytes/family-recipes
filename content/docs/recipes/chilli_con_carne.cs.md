@@ -38,7 +38,7 @@ categories = ["recept"]
 
 ### Koření
 
-{{< tabs "chilli con carne porce" >}}
+{{< tabs "chilli con carne porce bug" >}}
 {{% tab "8 porcí" %}}
 - 2 lžičky saturejky
 - 2 lžičky sladké papriky
