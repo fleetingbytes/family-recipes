@@ -10,6 +10,8 @@ categories = ["recette"]
 
 ## Ingrédients pour 8 portions
 
+{{< tabs "chilli con carne portions" >}}
+{{% tab "8 portions" %}}
 - 2 oignons
 - gras (lard, ou l'huile d'olives)
 - 5 gousses d'ail
@@ -19,27 +21,76 @@ categories = ["recette"]
 - 500 g sauce tomate
 - 250 g de haricots rouges (red kidney) (ou 500 g haricots rouges en conserve)
 - 200 g de maïs doux ou de poivron rouge
+{{% /tab %}}
+
+{{% tab "16 portions" %}}
+- 4 oignons
+- gras (lard, ou l'huile d'olives)
+- 10 gousses d'ail
+- 1000 g de viande hachée de bœuf ou de viande mixte (bœuf + porc), 18 % de gras
+- 800 à 1000 ml de bouillon de bœuf
+- 8 tomates
+- 1000 g sauce tomate
+- 500 g de haricots rouges (red kidney) (ou 1000 g haricots rouges en conserve)
+- 400 g de maïs doux ou de poivron rouge
+{{% /tab %}}
+{{< /tabs >}}
 
 ### Epices
 
-- 1 cac carvi
+{{< tabs "chilli con carne portions" >}}
+{{% tab "8 portions" %}}
 - 2 cac rase de sarriette
-- 1 cac grains de poivre
 - 2 cac paprika doux
+- 1 cac carvi
+- 1 cac grains de poivre
+{{% /tab %}}
+
+{{% tab "16 portions" %}}
+- 4 cac rase de sarriette
+- 4 cac paprika doux
+- 2 cac carvi
+- 2 cac grains de poivre
+{{% /tab %}}
+{{< /tabs >}}
+
+### Extra epices
+
+- sel
 - piment
 - piment en poudre
-- sel
+
+## Mise en place
+
+- oignon: hacher
+- gousses d’ail: grâter ou presser
+- tomates: hacher a dés
+- poivron: hacher a dés
+- haricot:
+    - tremper 24-36 heures a l’avance, changer l’eau toutes les 12 heures
+    - haricos en conserve: abtropfen
+- sachet de thé avec des epices:
+    - poivre
+    - carvi
+- piments fraiches: couper a dünne Scheiben
+
 
 ## Instructions
 
-Il est préférable de faire tremper les haricots 24 à 36 heures à l'avance et de changer l'eau toutes les 12 heures. (On peut prendre des haricots en conserve, immediatement, sans tremper.)
-Faire revenir l'oignon haché dans la graisse.
-Ajouter l'ail finement haché et immédiatement la viande hachée, faire revenir l'ensemble, et s'assurer que la viande se détache en petits morceaux.
-Verser le bouillon sur le mélange, ajouter les tomates hachées, de la sauce tomate et les haricots (sans eau).
-
-Cuire à couvert avec un sachet de thé, dans lequel on a versé du poivre, du carvi, de la sariette jusqu'à ce que les haricots soient tendres.
-Ajouter les piments finement hachés, l'assaisonnement au piment et le sel selon le goût.
-Enfin, ajouter le maïs ou le poivron rouge et cuire à découvert, en remuant de temps en temps, jusqu'à obtention de la consistance souhaitée.
+- dans la graisse faire revenir l’onion
+- ajouter l’ail et la viande, s’assurer que la se détache en petits morceaux
+- verser le bouillon
+- ajouter
+    - tomates
+    - sauce tomates
+    - haricot
+    - sachet de thé avec des epices
+    - sariette
+    - poivre powder
+- cuire à couvert jusqu’à que les haricots soient tendres
+- ajouter le sel, les piments selon le goût.
+- ajouter le maïs ou le poivron rouge
+- remuant de temps en temps, cuire à decouvert, jusqu‘à obtention de la consistence souhaitée
 
 A consommer seul, avec du pain ou du riz.
 

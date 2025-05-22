@@ -8,39 +8,89 @@ categories = ["recept"]
 
 # Chilli con carne
 
-## Přísady (pro 8 porcí)
+## Suroviny
 
+{{< tabs "chilli con carne porce" >}}
+{{% tab "8 porcí" %}}
 - 2 cibule
 - tuk (máslo, olej, sádlo)
 - 5 stroužků česneku
 - 500 g mletého masa (hovězí a vepřové), 18 % tuku
 - 400 až 500 ml hovězího vývaru
-- 4 rajčata nakrájená na kostičky
-- 500 g rajčatový protlak
-- 250 g red kidney fazolí (red kidney) (nebo 500 g red kidney fazolí z konzervy)
+- 4 rajčata
+- 500 g rajčatového protlaku
+- 250 g red kidney fazolí (nebo 500 g red kidney fazolí z konzervy)
 - 200 g kukuřice nebo červené papriky (sladké)
+{{% /tab %}}
+
+{{% tab "16 porcí" %}}
+- 4 cibule
+- tuk (máslo, olej, sádlo)
+- 10 stroužků česneku
+- 1000 g mletého masa (hovězí a vepřové), 18 % tuku
+- 800 až 1000 ml hovězího vývaru
+- 8 rajčat
+- 1000 g rajčatového protlaku
+- 500 g red kidney fazolí (nebo 1000 g red kidney fazolí z konzervy)
+- 400 g kukuřice nebo červené papriky (sladké)
+{{% /tab %}}
+{{< /tabs >}}
 
 ### Koření
 
-- 1 lžička kmínu
+{{< tabs "chilli con carne porce" >}}
+{{% tab "8 porcí" %}}
 - 2 lžičky saturejky
-- 1 lžička celého pepře
 - 2 lžičky sladké papriky
+- 1 lžička kmínu
+- 1 lžička celého pepře
+{{% /tab %}}
+
+{{% tab "16 porcí" %}}
+- 4 lžičky saturejky
+- 4 lžičky sladké papriky
+- 2 lžičky kmínu
+- 2 lžičky celého pepře
+{{% /tab %}}
+{{< /tabs >}}
+
+### Dochucovací koření
+
+- sůl
 - čerstvé chilli papričky
 - chilli koření
-- sůl
+
+## Mise en place
+
+- cibule: jemně nakrájet
+- česnek: nastrouhat nebo rozmačkat
+- rajčata: nakrájet na kostičky
+- papriku: nakrájet na kostičky
+- fazole:
+    - namáčet 24-36 h předem, vodu měnit každých 12 h
+    - z konzervy: odkapat
+- čajový sáček s kořením:
+    - kmín
+    - pepř
+- čerstvé chilli papričky: nakrájet na tenká kolečka
 
 ## Postup
 
-Fazole si 24 až 36 hodin předem namočíme a vodu každých 12 hodin vyměníme. (Lze použít i fazole konzervované, ty netřeba namáčet).
-Na tuku osmahneme nakrájenou cibuli.
-Přidáme nastrouhaný česnek a hned i mleté maso.
-Společně vše restujeme a dbáme na to, aby se maso rozpadlo na malé kousky.
-Směs zalijeme vývarem a přidáme nakrájená rajčata, protlak a fazole s kterých jsme slili vodu.
+- na tuku osmahnout nakrájenou cibuli
+- přidat česnek a hned i mleté maso
+- restovat a dbát na to, aby se maso rozpadlo na malé kousky
+- zalít vývarem
+- přidat
+    - rajčata
+    - protlak
+    - fazole
+    - čajový sáček s kořením
+    - saturejka
+    - paprika sladká
+- vařit pod pokličkou dokud fazole nezměknou
+- osolit, dochutit nakrájenými chilli papričkami, chilli kořením
+- přidat kukuřici nebo i nakrájenou červenou papriku
+- občas míchat, odkryté dovařit do požadované konzistence
 
-Vaříme přikryté pokličkou spolu s čajovým sáčkem, do kterého jsme nasypali kmín, saturejku a pepř, dokud fazole nezměknou.
-Podle chuti přidáme najemno nakrájené chilli papričky, chilli koření a sůl.
-Nakonec přidáme kukuřici nebo i nakrájenou červenou papriku. Za občasného míchání vaříme již odkryté do požadované konzistence.
-
-Jíme buď samotné, s chlebem nebo s rýží.
+Podávat buď samotné, s chlebem nebo s rýží.
 
