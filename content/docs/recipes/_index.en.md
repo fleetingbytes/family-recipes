@@ -3,7 +3,6 @@ title = "Recipes"
 weight = 1
 bookCollapseSection = false
 type = "docs"
-draft = false
 +++
 
 # Recipes

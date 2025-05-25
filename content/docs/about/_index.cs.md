@@ -1,7 +1,6 @@
 +++
 title = "O těchto stránkách"
 weight = 6
-draft = false
 bookCollapseSection = false
 +++
 

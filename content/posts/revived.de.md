@@ -1,7 +1,6 @@
 +++
 title = "Erneuert"
 date = 2024-04-20T15:57:23+02:00
-draft = false
 type = "posts"
 +++
 

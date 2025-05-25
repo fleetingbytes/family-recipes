@@ -1,6 +1,5 @@
 +++
 title = "Rodinné recepty"
-draft = false
 type = "docs"
 +++
 

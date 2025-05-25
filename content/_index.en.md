@@ -1,6 +1,5 @@
 +++
 title = "Family Recipes"
-draft = false
 type = "docs"
 +++
 

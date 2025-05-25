@@ -1,7 +1,6 @@
 +++
 title = "Eggs and Bacon"
 type = "docs"
-draft = false
 tags = ["breakfast", "easy", "cheap"]
 categories = ["recipe"]
 +++

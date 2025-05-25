@@ -1,7 +1,6 @@
 +++
 title = "Spiegeleier mit Bacon"
 type = "docs"
-draft = false
 tags = ["Frühstück", "leicht", "billig"]
 categories = ["Rezept"]
 +++

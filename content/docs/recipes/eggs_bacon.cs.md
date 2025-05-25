@@ -1,7 +1,6 @@
 +++
 title = "Vejce se slaninou"
 type = "docs"
-draft = false
 tags = ["snídaně", "jednoduché", "levné"]
 categories = ["recept"]
 +++

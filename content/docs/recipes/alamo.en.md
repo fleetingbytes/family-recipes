@@ -1,7 +1,6 @@
 +++
 title = "Alamo"
 type = "docs"
-draft = false
 tags = ["lunch", "gratin", "pasta"]
 categories = ["recipe"]
 +++

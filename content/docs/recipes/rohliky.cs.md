@@ -1,7 +1,6 @@
 +++
 title = "Rohlíky"
 type = "docs"
-draft = false
 tags = ["pečivo"]
 categories = ["recept"]
 +++

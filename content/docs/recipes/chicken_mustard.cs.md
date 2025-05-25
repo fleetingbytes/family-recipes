@@ -1,7 +1,6 @@
 +++
 title = "Kuře s hořčičnou omáčkou"
 type = "docs"
-draft = false
 tags = ["oběd", "slepice", "náročné"]
 categories = ["recept"]
 +++

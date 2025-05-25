@@ -1,7 +1,6 @@
 +++
 title = "Čuč na čáru"
 type = "docs"
-draft = false
 tags = ["koláč", "dezert"]
 categories = ["recept"]
 +++

@@ -1,7 +1,6 @@
 +++
 title = "Œufs au bacon"
 type = "docs"
-draft = false
 tags = ["petit déjeuner", "facile", "économique"]
 categories = ["recette"]
 +++

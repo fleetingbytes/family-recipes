@@ -1,7 +1,6 @@
 +++
 title = "Chicken in Mustard Sauce"
 type = "docs"
-draft = false
 tags = ["lunch", "chicken", "tedious"]
 categories = ["recipe"]
 +++

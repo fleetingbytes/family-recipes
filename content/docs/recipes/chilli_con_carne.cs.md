@@ -1,7 +1,6 @@
 +++
 title = "Chilli con carne"
 type = "docs"
-draft = false
 tags = ["oběd"]
 categories = ["recept"]
 +++
