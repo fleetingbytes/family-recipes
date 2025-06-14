@@ -32,7 +32,7 @@ Salsa is a sauce used for [fajitas][fajitas].
 
 # Preparation
 
-- blend:
+- mix:
     - tomatoes
     - onion
     - coriander
