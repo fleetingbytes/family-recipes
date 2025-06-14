@@ -15,9 +15,9 @@ Salsa is a sauce used for [fajitas][fajitas].
 
 - 8 tomatoes
 - 1 onion
-- coriander
+- 12 g coriander
 - 2 cloves of garlic
-- 1 lime
+- 1-4 limes (4 tbsp lime juice)
 - 2 jalapeño peppers
 - salt
 
@@ -27,12 +27,18 @@ Salsa is a sauce used for [fajitas][fajitas].
 - dice the onion
 - chop the coriander
 - grate the garlic
-- press out the juice of one lime (approx. 4 tbsp.)
+- press out approx. 4 tbsp juice of the limes
 - mince the jalapeño pepper
 
 # Preparation
 
-- blend all
+- blend:
+    - tomatoes
+    - onion
+    - coriander
+    - garlic
+    - lime juice
+    - jalapeños
 - salt to taste
 - cook for a few minutes
 - stir occasionally
