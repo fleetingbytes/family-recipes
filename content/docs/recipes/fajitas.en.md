@@ -18,7 +18,7 @@ Mexican food eaten in tortilla wraps with [salsa][salsa] sauce and [seasoning][f
 - 800 g chicken or turkey meat
 - 1 onion
 - 1 green bell pepper
-- oil
+- olive oil
 - [marinade][marinade]
 - [seasoning][fajitas-seasoning]
 
