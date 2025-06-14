@@ -28,7 +28,7 @@ Salsa is a sauce used for [fajitas][fajitas].
 - chop the coriander
 - grate the garlic
 - press out approx. 4 tbsp juice of the limes
-- mince the jalapeño pepper
+- mince the jalapeño peppers
 
 # Preparation
 
