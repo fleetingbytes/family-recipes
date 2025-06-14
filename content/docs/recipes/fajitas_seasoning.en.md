@@ -14,7 +14,7 @@ Spice mix used for [fajitas][fajitas].
 8 servings
 
 - 1 tbsp cornstarch
-- 1 tsp chilli powder extra hot
+- 1 tsp chilli powder
 - ½ tbsp salt
 - 1 tbsp paprika
 - ½ tbsp sugar
