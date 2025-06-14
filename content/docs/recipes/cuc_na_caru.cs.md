@@ -9,7 +9,10 @@ categories = ["recept"]
 
 Homogenní těsto se během pečení rozvrství, čímž vznikne obdivuhodná čára.
 
+Příprava je časově velice náročná, ale je dobře paralelizovatelná. Peču-li to sám, potřebuju asi 100 minut než je koláč v troubě a dalších asi 90 minut než se upeče a vychladne do nakrojitelného stavu.
+
 ## Suroviny
+<!-- navážení všech surovin: 6 min -->
 
 Množství na jeden hluboký plech
 
@@ -24,24 +27,25 @@ Množství na jeden hluboký plech
 
 ## Mise en place
 
-- roztavit máslo a nechat je vychladnout
-- pomlít mák
-- smíchat namletý mák s moukou
-- oddělit žloutky od bílků
-- přesít moučkový cukr
-- vymazat plech máslem
+- roztavit máslo a nechat je vychladnout <!-- during grinding -->
+- pomlít mák <!-- 24 min -->
+- smíchat namletý mák s moukou <!-- ~3 min -->
+- oddělit žloutky od bílků <!-- 10 min -->
+- přesít moučkový cukr <!-- 12 min -->
+- vymazat plech máslem <!-- 3 min -->
+<!-- zde by se snad už mohlo začít s přípravou. -->
 - předehřát troubu na 170 °C (spodní a horní ohřev)
-- mléko zahřát a udržovat vlažné
-- bílky rozšlehat do tuhého sněhu
+- mléko zahřát a udržovat vlažné <!-- 3 min -->
+- bílky rozšlehat do tuhého sněhu <!-- 5 min -->
 
 ## Příprava
 
-- žloutky rozšlehat a po malých dávkách přidávat cukr, šlehat do nažloutlé pěny
-- po lžících přidávat roztavené vychladlé máslo
-- vmíchat mouku s mákem
-- zředit teplým mlékem
-- zlehka vpracovat sníh
-- opatrně promíchat a vylít na vymazaný plech
+- žloutky rozšlehat a po malých dávkách přidávat cukr, šlehat do nažloutlé pěny <!-- 10 min -->
+- po lžících přidávat roztavené vychladlé máslo a přelít do díže na těsto <!-- 9 min -->
+- vmíchat mouku s mákem <!-- 10 min -->
+- zředit teplým mlékem <!-- 3 min -->
+- zlehka vpracovat sníh <!-- 3 min -->
+- opatrně promíchat a vylít na vymazaný plech <!-- 1 min -->
 
 ## Pečení
 
