@@ -13,7 +13,7 @@ categories = ["recette"]
 - crème fraîche
 - saler, poivrer
 - fromage rapé
-- enfourner à 180 °C et sourveiller
+- enfourner à 180 °C et surveiller
 
 ## Source
 
