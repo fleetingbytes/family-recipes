@@ -9,7 +9,7 @@ categories = ["recipe"]
 
 Salsa is a sauce used for [fajitas][fajitas].
 
-# Ingredients
+## Ingredients
 
 8 servings
 
@@ -21,7 +21,7 @@ Salsa is a sauce used for [fajitas][fajitas].
 - 2 jalapeño peppers
 - salt
 
-# Mis-en-place
+## Mis-en-place
 
 - dice the tomatoes
 - dice the onion
@@ -30,7 +30,7 @@ Salsa is a sauce used for [fajitas][fajitas].
 - press out approx. 4 tbsp juice of the limes
 - mince the jalapeño peppers
 
-# Preparation
+## Preparation
 
 - mix:
     - tomatoes
@@ -45,7 +45,7 @@ Salsa is a sauce used for [fajitas][fajitas].
 - let it cool down
 - cool it in the fridge
 
-# Source
+## Source
 
 [allrecipes.com][allrecipes-salsa]
 

@@ -9,11 +9,11 @@ categories = ["recipe"]
 
 Mexican food eaten in tortilla wraps with [salsa][salsa] sauce and [seasoning][fajitas-seasoning].
 
-# Ingredients
+## Ingredients
 
 8 servings
 
-## Fajitas
+### Fajitas
 
 - 800 g chicken or turkey meat
 - 1 onion
@@ -22,7 +22,7 @@ Mexican food eaten in tortilla wraps with [salsa][salsa] sauce and [seasoning][f
 - [marinade][marinade]
 - [seasoning][fajitas-seasoning]
 
-## Marinade
+### Marinade
 
 - 2 tbsp Worcester sauce
 - 2 tbsp apple cider vinegar
@@ -31,7 +31,7 @@ Mexican food eaten in tortilla wraps with [salsa][salsa] sauce and [seasoning][f
 - 2 cloves grated garlic
 - 2 dashes of tabasco
 
-# Mis-en-place
+## Mis-en-place
 
 - prepare [marinade][marinade] (mix all marinade ingredients)
 - cut meat into gyros-sized bits
@@ -39,7 +39,7 @@ Mexican food eaten in tortilla wraps with [salsa][salsa] sauce and [seasoning][f
 - chop the onion
 - dice the bell pepper
 
-# Preparation
+## Preparation
 
 - fry onion on oil
 - add meat
@@ -48,11 +48,11 @@ Mexican food eaten in tortilla wraps with [salsa][salsa] sauce and [seasoning][f
 - add some of the seasoning (keep some seasoning for the serving)
 - fry uncovered until meat done
 
-# Serving
+## Serving
 
 With wraps, [salsa][salsa], and [seasoning][fajitas-seasoning]
 
-# Source
+## Source
 
 [allrecipes.com][allrecipes-fajitas]
 

@@ -9,7 +9,7 @@ categories = ["recipe"]
 
 Spice mix used for [fajitas][fajitas].
 
-# Ingredients
+## Ingredients
 
 8 servings
 
@@ -22,11 +22,11 @@ Spice mix used for [fajitas][fajitas].
 - 1 tsp ground cumin
 - 1 tsp cayenne pepper
 
-# Preparation
+## Preparation
 
 - mix all
 
-# Source
+## Source
 
 [allrecipes.com][allrecipes-fajita-seasoning]
 
