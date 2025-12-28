@@ -26,6 +26,14 @@ Obligatory music: Jambalaya (Hank Williams, 1951).
 - chicken stock
 - [Cajun spice mix][cajunspice]
 
+## Mis-en-place
+
+- grate the garlic
+- cut and marinade the chicken
+- cut bell pepper
+- cut celery
+- soak rice (20 min max., then drain)
+
 ## Marinade
 
 - olive oil
@@ -33,47 +41,46 @@ Obligatory music: Jambalaya (Hank Williams, 1951).
 - ½ of the cajun spice
 - salt
 
-## Mis-en-place
-
-- cut and marinade the chicken
-- cut bell pepper
-- cut celery
-
 ## Preparation
 
-### Fry Chicken
+{{% steps %}}
+1. ### Fry Chicken
 
-- fry onion on fat
-- add ⅓ of the grated garlic
-- add and fry chicken
-- put chicken aside
+    - fry onion on fat
+    - add ⅓ of the grated garlic
+    - add and fry chicken
+    - put chicken aside
 
-### Fry Vegetables
+2. ### Fry Vegetables
 
-- add bell pepper
-- add celery
-- deglaze with stock
+    - add bell pepper
+    - add celery
+    - deglaze with stock
+    - cook
 
-### Cook Rice
+3. ### Cook Rice
 
-- add rice
-- add stock
-- add tomato paste
-- add ½ of the cajun spice
-- cook until rice is cooked
-- gradualy add stock of water if it gets too thick
+    - add rice
+    - add stock
+    - add tomato paste
+    - add ½ of the cajun spice
+    - cook until rice is cooked
+    - gradualy add stock of water if it gets too thick
 
-### Finish
+4. ### Finish
 
-- cook to reach desired thickness
-- salt to taste
-- put back the chicken to warm it back up
+    - cook to reach desired thickness
+    - salt to taste
+    - put back the chicken to warm it back up
+{{% /steps %}}
 
-## Source 
+## Sources
 
-[Food Is Love][filcajun]
+- [Food Is Love][filcajun]
+- [One Pot Jambalaya][onepotjambalaya] youtube short
 
 
 [filcajun]: https://youtu.be/RqvpFCfU4TQ
+[onepotjambalaya]: https://youtube.com/shorts/3gawiY1nv28?si=u3xbJ8FCY5VKlFBy
 [cajunspice]: {{< relref "cajun_spice_mix.en.md" >}}
 

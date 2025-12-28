@@ -29,7 +29,7 @@ Spice mix used for [jambalaya][jambalaya].
 
 ## Source
 
-[filcajun][Food Is Love]
+[Food Is Love][filcajun]
 
 
 [filcajun]: https://youtu.be/RqvpFCfU4TQ
