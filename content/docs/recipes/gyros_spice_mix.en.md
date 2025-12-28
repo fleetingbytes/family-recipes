@@ -11,13 +11,13 @@ date = 2025-12-26T17:54:09+01:00
 ## Ingredients
 
 - 6 tsp oregano (dryed)
-- 4 tsp tymiánu (dryen)
-- 2 tsp majoránky (dryed)
-- 2 tsp rozmarýnu (dryed)
-- 2 tsp koriandru (dryed, ground)
-- 1 tsp římského kmínu (ground)
-- 1 tsp chilli koření (ground) (only ½ a spoon if it is too spicy)
-- 3 tsp uzené papriky (dryed, ground)
+- 4 tsp thyme (dryen)
+- 2 tsp majoram (dryed)
+- 2 tsp rosemary (dryed)
+- 2 tsp coriander (dryed, ground)
+- 1 tsp cumin (ground)
+- 1 tsp chilli pepper (ground) (only ½ a spoon if it is too spicy)
+- 3 tsp smoked paprika (dryed, ground)
 - 1 pince cinnamon
 - 2 tsp ground dryed onions (I deliberately ignore this)
 - 2 tsp ground dryed garlic

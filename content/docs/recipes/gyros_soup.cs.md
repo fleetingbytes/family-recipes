@@ -130,5 +130,5 @@ Množství vody je přibližné. Dejte více či méně, podle toho, jak hustou 
     - nechat vychladnout a odpočívat ať se rozvine chuť
 {{% /steps %}}
 
-[gyrosspice]: {{< relref "gyros_spice_mix.de.md" >}}
+[gyrosspice]: {{< relref "gyros_spice_mix.cs.md" >}}
 

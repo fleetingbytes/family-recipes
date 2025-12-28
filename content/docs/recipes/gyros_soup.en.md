@@ -130,6 +130,6 @@ The amount of water is an approximate. Use more, or less, depending on how think
     - let cool down and rest, let taste develop further
 {{% /steps %}}
 
-[gyrosspice]: {{< relref "gyros_spice_mix.de.md" >}}
+[gyrosspice]: {{< relref "gyros_spice_mix.en.md" >}}
 
 
