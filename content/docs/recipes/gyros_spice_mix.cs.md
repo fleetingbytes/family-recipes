@@ -30,4 +30,3 @@ date = 2025-12-26T17:54:09+01:00
 [Koch-mit][kochmit]
 
 [kochmit]: https://www.koch-mit.de/kueche/gyros-gewuerz/
-

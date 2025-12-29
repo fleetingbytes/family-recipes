@@ -10,20 +10,20 @@ date = 2025-12-26T17:54:09+01:00
 
 ## Ingrédients
 
-- 6 cac du oregano (séche)
-- 4 cac du thym (séche)
-- 2 cac du marjolain (séchée)
-- 2 cac du romarin (séche)
-- 2 cac du coriander (séche, moulé)
-- 1 cac du cumin (moulé)
-- 1 cac du chilli (moulé) (que de ½ cac si c'est trop fort)
-- 3 cac du paprika fumé (séch, moulé)
-- 1 pince canelle 
-- 2 cac du oignon séchée (je jamais ajoute)
-- 2 cac du l'ail séche, moulé
-- 3 cac de poivre noire (moulé)
-- 3 cac du sel
-- 2 cac du sucre
+- 6 cac d'origan séché
+- 4 cac de thym séché
+- 2 cac de marjolaine séchée
+- 2 cac de romarin séché
+- 2 cac de coriandre en poudre
+- 1 cac de cumin en poudre
+- 1 cac de piment en poudre (ou ½ cac si très fort)
+- 3 cac de paprika fumé
+- 1 pincée de cannelle
+- 2 cac d'oignon en poudre / granulé (je l'omets personnellement)
+- 2 cac d'ail en poudre / granulé
+- 3 cac de poivre noir moulu
+- 3 cac de sel
+- 2 cac de sucre
 
 ## Source
 

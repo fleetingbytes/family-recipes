@@ -131,5 +131,3 @@ The amount of water is an approximate. Use more, or less, depending on how think
 {{% /steps %}}
 
 [gyrosspice]: {{< relref "gyros_spice_mix.en.md" >}}
-
-

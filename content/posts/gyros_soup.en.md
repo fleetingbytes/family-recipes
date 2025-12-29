@@ -8,5 +8,3 @@ I created this recipe for a [gyros soup][gyrossoup] for my [community][gemeinde]
 
 [gyrossoup]: {{< relref "../docs/recipes/gyros_soup.en.md" >}}
 [gemeinde]: https://leben-aus-gnade.de
-
-

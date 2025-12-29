@@ -131,4 +131,3 @@ Množství vody je přibližné. Dejte více či méně, podle toho, jak hustou 
 {{% /steps %}}
 
 [gyrosspice]: {{< relref "gyros_spice_mix.cs.md" >}}
-

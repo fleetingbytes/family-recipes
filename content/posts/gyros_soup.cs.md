@@ -8,4 +8,3 @@ Recept na tuto [gyrosovou polévku][gyrossoup] jsem vymyslel pro Vánoční trh 
 
 [gyrossoup]: {{< relref "../docs/recipes/gyros_soup.cs.md" >}}
 [gemeinde]: https://leben-aus-gnade.de
-
