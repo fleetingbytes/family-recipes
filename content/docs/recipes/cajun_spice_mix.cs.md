@@ -34,5 +34,3 @@ Používá se po cajunské pokrmy, např. v [jambalaye][jambalaya]. Lze koupit u
 
 [filcajun]: https://youtu.be/RqvpFCfU4TQ
 [jambalaya]: {{< relref "jambalaya.cs.md" >}}
-
-

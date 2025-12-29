@@ -34,4 +34,3 @@ Spice mix used for [jambalaya][jambalaya].
 
 [filcajun]: https://youtu.be/RqvpFCfU4TQ
 [jambalaya]: {{< relref "jambalaya.en.md" >}}
-

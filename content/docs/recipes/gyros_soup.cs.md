@@ -104,7 +104,7 @@ Množství vody je přibližné. Dejte více či méně, podle toho, jak hustou 
     - Maso zprudka osmažit na tuku, vyndat, nechat vystydnout
     - osmažit cibuli a česnek, trochu podlít vodou a smíchat s přísmažky masa
 
-2. ### Uvařit cibuli a brambory
+1. ### Uvařit cibuli a brambory
 
     - přilít něco vody
     - povařit cibuli (cibulačka je náš základ)
@@ -113,14 +113,14 @@ Množství vody je přibližné. Dejte více či méně, podle toho, jak hustou 
     - vařit dokud brambory nezměknou
     - během vaření nakrájíme vychladlé usmažené maso na kostičky
 
-3. ### Uvařit a rozmixovat zeleninu
+1. ### Uvařit a rozmixovat zeleninu
 
     - přilít rajský protlak
     - přidat asi ¾ pokrájených paprik
     - vařit dokud papriky nezměknou
     - rozmixovat na 60-80%
 
-4. ### Maso a dochutit
+1. ### Maso a dochutit
 
     - přidat maso a nechat trochu provařit
     - přidat zbytek paprik

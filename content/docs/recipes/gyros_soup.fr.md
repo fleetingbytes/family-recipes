@@ -104,7 +104,7 @@ La quantité dy l'eau es pa trop precise. Ajouter plus ou moin du l'eau, comme v
     - frier la viande au feu vife, réserver et laisser refroidir
     - frier l'oignon et du l'ail, déglasser avec du l'eau
 
-2. ### Uvařit cibuli a brambory
+1. ### Uvařit cibuli a brambory
 
     - ajouter du l'eau
     - cuire du l'oignon (soup a l'oignon est du base)
@@ -113,14 +113,14 @@ La quantité dy l'eau es pa trop precise. Ajouter plus ou moin du l'eau, comme v
     - cuire jusqu'a des pommes de terre sont cuites
     - coup le viand friere à dés pendand que le pommes de terre cuises
 
-3. ### Cuire et purer des legumes
+1. ### Cuire et purer des legumes
 
     - ajouter du passata
     - ajouter ¾ du poivres
     - cuire jusqu'a des poivres sont cuite
     - purer à 60-80%
 
-4. ### Viande et finire
+1. ### Viande et finire
 
     - ajouter le viande et cuire un peu
     - ajouter le rest de poivrons

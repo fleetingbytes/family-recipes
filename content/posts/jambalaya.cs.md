@@ -8,6 +8,3 @@ Má milovaná žena navrhla, že bych mohl udělat [slepici po cajunsku][filcaju
 
 [jambalaya]: {{< relref "../docs/recipes/jambalaya.cs.md" >}}
 [filcajun]: https://youtu.be/RqvpFCfU4TQ
-
-
-

@@ -104,7 +104,7 @@ The amount of water is an approximate. Use more, or less, depending on how think
     - fry meat on fat, heavy heat, put aside, let cool down
     - fry onion and garlic, deglaze with water
 
-2. ### Cook onion, potatoes
+1. ### Cook onion, potatoes
 
     - add some more water
     - cook onion (onion soup it the base)
@@ -113,14 +113,14 @@ The amount of water is an approximate. Use more, or less, depending on how think
     - cook until the potatoes are cooked
     - while cooking, cut fried gyros meat to dice
 
-3. ### Cook and purée vegetables
+1. ### Cook and purée vegetables
 
     - add passata
     - add ¾ of the cut bell peppers
     - cook until bell peppers are soft
     - purée to 60-80%
 
-4. ### Meat and Finish
+1. ### Meat and Finish
 
     - add fried gyros meat and cook a bit
     - add the rest of the bell peppers

@@ -8,7 +8,7 @@ date = 2025-12-23T04:47:50+01:00
 
 # Jambalaya
 
-Tradiční cajunský pokrm z Luisiany.
+Tradiční cajunský pokrm z Louisiany.
 
 posloucháme: Jambalaya (Hank Williams, 1951).
 
@@ -29,7 +29,7 @@ posloucháme: Jambalaya (Hank Williams, 1951).
 ## Mis en place
 
 - nastrouhat česnek
-- nakrájet a namarinovat kuřecí filé
+- nakrájet a [namarinovat](#marináda) kuřecí filé
 - nakrájet papriku
 - nakrájet celer
 - namočit rýži (max. 20 min, pak odkapat)
@@ -46,19 +46,19 @@ posloucháme: Jambalaya (Hank Williams, 1951).
 {{% steps %}}
 1. ### Osmažit slepici
 
-    - na tuku osmažit slepici
+    - na tuku osmažit cibuli
     - přidat ⅓  česneku
     - přidat a osmažit filé
     - maso dát stranou
 
-2. ### Osmažit zeleninu
+1. ### Osmažit zeleninu
 
-    - osmažit papriku
-    - osmažit celer
+    - osmažit papriku (pod pokličkou)
+    - osmažit celer (pod pokličkou)
     - podlít vývarem, smísit s odlepenými přísmažky
     - povařit
 
-3. ### Uvařit rýži
+1. ### Uvařit rýži
 
     - přisypat odkapanou rýži
     - zalít vývarem
@@ -67,7 +67,7 @@ posloucháme: Jambalaya (Hank Williams, 1951).
     - uvařit (podle rýže)
     - přilévat vývar či vodu, houstne-li to víc než je libo
 
-4. ### Redukovat, dochutit
+1. ### Redukovat, dochutit
 
     - redukovat dle libosti
     - dosolit
@@ -84,5 +84,3 @@ posloucháme: Jambalaya (Hank Williams, 1951).
 [filcajun]: https://youtu.be/RqvpFCfU4TQ
 [onepotjambalaya]: https://youtube.com/shorts/3gawiY1nv28?si=u3xbJ8FCY5VKlFBy
 [cajunspice]: {{< relref "cajun_spice_mix.cs.md" >}}
-
-

@@ -104,7 +104,7 @@ Die Menge an Wasser ist geschätzt. Nach Gefühl mehr oder weniger Wasser geben,
     - Fleisch am Fett oder Butter scharf anbraten, zur Seite legen, abkühlen lassen
     - Zwiebel und Knoblauch anbraten, mit etwas Wasser ablöschen
 
-2. ### Zwiebelsuppe mit Kartoffeln
+1. ### Zwiebelsuppe mit Kartoffeln
 
     - etwas Wasser dazu
     - Zwiebel kurz kochen (Zwiebelsuppe als Grundlage)
@@ -113,14 +113,14 @@ Die Menge an Wasser ist geschätzt. Nach Gefühl mehr oder weniger Wasser geben,
     - kochen bis Kartoffeln gar sind
     - inzwischen abgekühltes Gyrosgeschnetz in Würfel schneiden
 
-3. ### Gemüse kochen, pürieren
+1. ### Gemüse kochen, pürieren
 
     - passierte Tomaten in die Suppe zutun
     - etwa ¾ der geschnittenen Paprikas reintun
     - kurz kochen lassen
     - zu 60-80% pürieren
 
-4. ### Gyrosfleisch und Abschluss
+1. ### Gyrosfleisch und Abschluss
 
     - Gyrosfleisch in die Suppe dazutun und kurz durchkochen
     - den Rest der geschnittenen Paprikas reintun

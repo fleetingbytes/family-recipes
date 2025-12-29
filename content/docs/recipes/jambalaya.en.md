@@ -8,7 +8,7 @@ date = 2025-12-23T04:47:50+01:00
 
 # Jambalaya
 
-Traditional meal from Luisiana.
+Traditional meal from Louisiana.
 
 Obligatory music: Jambalaya (Hank Williams, 1951).
 
@@ -29,7 +29,7 @@ Obligatory music: Jambalaya (Hank Williams, 1951).
 ## Mis-en-place
 
 - grate the garlic
-- cut and marinade the chicken
+- cut and [marinade](#marinade) the chicken
 - cut bell pepper
 - cut celery
 - soak rice (20 min max., then drain)
@@ -53,14 +53,14 @@ Obligatory music: Jambalaya (Hank Williams, 1951).
 
 2. ### Fry Vegetables
 
-    - add bell pepper
-    - add celery
+    - add bell pepper (cover)
+    - add celery (cover)
     - deglaze with stock
     - cook
 
 3. ### Cook Rice
 
-    - add rice
+    - add rice (drained)
     - add stock
     - add tomato paste
     - add ½ of the cajun spice
@@ -74,6 +74,7 @@ Obligatory music: Jambalaya (Hank Williams, 1951).
     - put back the chicken to warm it back up
 {{% /steps %}}
 
+
 ## Sources
 
 - [Food Is Love][filcajun]
@@ -83,4 +84,3 @@ Obligatory music: Jambalaya (Hank Williams, 1951).
 [filcajun]: https://youtu.be/RqvpFCfU4TQ
 [onepotjambalaya]: https://youtube.com/shorts/3gawiY1nv28?si=u3xbJ8FCY5VKlFBy
 [cajunspice]: {{< relref "cajun_spice_mix.en.md" >}}
-
