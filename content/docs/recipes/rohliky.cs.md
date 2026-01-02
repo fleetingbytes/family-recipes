@@ -40,7 +40,7 @@ pro 11 rohlíků
     - uhníst těsto (v kuchyňském robotu, až se přestane lepit tak dohníst rukama na vále)
     - těsto přikrýt vlhkou utěrkou a nechat v troubě při 35 °C (horkovzduch) kynout 33 minut
 1. ### Tvarování, a další kynutí
-    - z těsta ukrajovat 74 až 75 g kousky, zakoulet do kuličky (pro pletýnky nadělat trojice hadů po 25 g)
+    - z těsta ukrajovat 74 až 75 g kousky, zakoulet do bochánků (pro pletýnky nadělat trojice hadů po 25 g)
     - bochánky nechat 11 minut kynout v troubě (35 °C), přikryté vlhkou utěrkou
     - vytvarovat rohlíky, housky, pletýnky
     - klást na plech na pečicí papír po 5 až 6 kusech
