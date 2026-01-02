@@ -33,7 +33,7 @@ pro 12 loupáků
 
 ### Potěr, posyp
 
-- 1 bílek na potěr (aby se leskli a posyp držel na povrchu)
+- 1 vejce (aby se leskli a posyp držel na povrchu)
 - mák
 
 ## Mise en place
@@ -51,6 +51,9 @@ pro 12 loupáků
     - mléko
     - máslo
     - žloutek
+- připravit potěr:
+    - rozmíchat vejce
+    - mák nechat zvlášť
 
 ## Postup
 
@@ -65,7 +68,7 @@ pro 12 loupáků
     - klást na plech na pečicí papír volným cípem dospod, po 6 kusech
     - nechat ještě 45 min kynout
 1. ### Pečení
-    - před pečením potřít bílkem a posypat mákem
+    - před pečením potřít vejcem a posypat mákem
     - rozehřát troubu na 160 °C (horkovzduch)
     - oba plechy dát do trouby na pozice 1 (dole) a 3 (veprostřed)
     - péct 18-20 minut, spodní plech případně ponechat ještě déle
