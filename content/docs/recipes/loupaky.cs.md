@@ -57,12 +57,12 @@ pro 12 loupáků
 {{% steps %}}
 1. ### Hnětení, kynutí
     - pevné i tekuté suroviny smíchat a uhníst těsto (kuchyňským robotem, až se přestane lepit tak dohníst rukama na vále)
-    - těsto nechat hodinu kynout (přikryté vlhkou utěrkou v troubě při 35 °C, horkovzduch)
+    - nechat hodinu kynout (přikryté vlhkou utěrkou v troubě při 35 °C, horkovzduch)
     - těsto váží asi 756 g
 1. ### Tvarování, a další kynutí
     - z těsta ukrajovat 63 g kousky, zakoulet do tvaru bochánku
     - z bochánků vytvarovat loupáky (před ohnutím je ještě dalším válením pořádně zpevnit!)
-    - klást na plech na pečicí papír volným cípem dospod, po 5 až 6 kusech
+    - klást na plech na pečicí papír volným cípem dospod, po 6 kusech
     - nechat ještě 45 min kynout
 1. ### Pečení
     - před pečením potřít bílkem a posypat mákem
