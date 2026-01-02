@@ -32,21 +32,25 @@ pro 11 rohlíků
 
 ## Postup
 
-- připravit si kvasnice a suroviny
-- uhníst těsto (v kuchyňském robotu, až se přestane lepit tak dohníst rukama na vále)
-- těsto přikrýt vlhkou utěrkou a nechat v troubě při 35 °C (horkovzduch) kynout 33 minut
-- z těsta ukrajovat 74 až 75 g kousky, zakoulet do kuličky (pro pletýnky nadělat trojice hadů po 25 g)
-- polotovary nechat 11 minut kynout v troubě (35 °C), přikryté vlhkou utěrkou
-- vytvarovat rohlíky, housky, pletýnky
-- klást na plech na pečicí papír po 5 až 6 kusech
-- troubu už během tvarování rozehřívat na 265 °C (horní a spodní ohřev)
-- po vytvarování a během rozehřívání trouby nechat při pokojové teplotě kynout 13 minut
-- před pečením potřít vodou a posypat posypem
-
-### Pečení
-
-- 10 minut v troubě předehřáté na 265 °C (horní a spodní ohřev)
-- nechat na mřížce vychladnout
+{{% steps %}}
+1. ### Aktivace kvasnic, příprava surovin
+    - připravit si kvasnice
+    - navážit ostatní suroviny
+1. ### Hnětení, kynutí
+    - uhníst těsto (v kuchyňském robotu, až se přestane lepit tak dohníst rukama na vále)
+    - těsto přikrýt vlhkou utěrkou a nechat v troubě při 35 °C (horkovzduch) kynout 33 minut
+1. ### Tvarování, a další kynutí
+    - z těsta ukrajovat 74 až 75 g kousky, zakoulet do kuličky (pro pletýnky nadělat trojice hadů po 25 g)
+    - polotovary nechat 11 minut kynout v troubě (35 °C), přikryté vlhkou utěrkou
+    - vytvarovat rohlíky, housky, pletýnky
+    - klást na plech na pečicí papír po 5 až 6 kusech
+    - troubu už během tvarování rozehřívat na 265 °C (horní a spodní ohřev)
+    - po vytvarování a během rozehřívání trouby nechat při pokojové teplotě kynout 13 minut
+    - před pečením potřít vodou a posypat posypem
+1. ### Pečení
+    - 10 minut v troubě předehřáté na 265 °C (horní a spodní ohřev)
+    - nechat na mřížce vychladnout
+{{% /steps %}}
 
 ## Zdroj
 
@@ -58,7 +62,7 @@ pro 11 rohlíků
 
 ### Raženka
 
-Pro tvarování housek lze použít tvořítko na housky, raženku DELICIA.
+Pro tvarování housek lze použít tvořítko na housky, raženku Delicia.
 
 ### Bez E920
 
