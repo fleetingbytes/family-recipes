@@ -84,5 +84,5 @@ pro 12 loupáků
 - Vychladlé loupáky se dají také zmrazit a jíst kdykoliv později.
 - Polovinu cukru lze nahradit sladidlem E967 (xylitol, xylit, Xucker).
 
-[loupaky-vid]: https://www.youtube.com/watch?v=lcwRrZfybRY
+[loupaky-vid]: https://www.youtube.com/watch?v=IcwRrZfybRY
 [loupaky-rec]: https://varime-doma.cz/2017/01/15/loupacky-2
